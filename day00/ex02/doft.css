@@ -1,0 +1,162 @@
+body
+{
+    background-color: #424242;
+}
+
+.wrapper
+{
+	padding-top: 10px;
+	width: 1362px;
+	margin: 0 auto;
+	position: relative;
+}
+
+
+header img
+{
+	margin:0;
+	height: 100%;
+}
+
+header
+{
+	background-color: #909090;
+	height: 117px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.grey_box
+{
+    background-color:#909090;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    border-radius: 12px;
+    box-shadow: 10px 10px 10px;
+    clear: both;
+    margin: 20px auto;
+}
+
+.loupe
+{
+    float: right;
+    width: 238px;
+    height: 136px;
+    margin-top: -100px;
+    margin-right: 30px;
+}
+
+.reload
+{
+    margin-top: -120px;
+    margin-right: -255px;
+    height: 20px;
+    float: right;
+}
+
+.close
+{
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin-right: -255px;
+    margin-top: -20px;
+}
+
+.main_box
+{
+    width: 1360px;
+    height: 600px;
+    margin: 20px auto;
+    clear: both;
+}
+
+.left_box
+{
+    float:left;
+    width: 142px;
+    height: 425px;
+    background-color: #909090;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px;
+    margin-left: 42px;
+    clear: both;
+}
+
+.left_box_img
+{
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.selected
+{
+    border: 5px solid red;
+}
+
+.middle_box
+{
+    float:left;
+    width: 942px;
+    height: 540px;
+    background-color: #909090;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px;
+    margin: 0px 30px;
+}
+
+.cluster_img
+{
+    width: 926px;
+    margin-left: 8px;
+    margin-top: 8px;
+
+}
+
+.right_box
+{
+    float:left;
+    width: 142px;
+    height: 425px;
+    background-color: #909090;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px;
+}
+
+.brick
+{
+    float: left;
+    width: 120px;
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-image: url("./resources/brick.jpg");
+}
+
+.text_box
+{
+    float: left;
+    width: 550px;
+    height: 163px;
+    background-color: #88FF89;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 5px 5px #212121;
+    margin-left: -50px;
+    margin-top: -150px;
+}
+
+p
+{
+    margin: 10px;
+}
+.ordi
+{
+    text-shadow: 5px 5px 5px #BA8047;
+}
+.little_height
+{
+ line-height: 4px;
+}
